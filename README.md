@@ -5,4 +5,4 @@ This project evaluates a top leaderboard automated decision system (ADS) solutio
 
 See: [Project Report](https://github.com/ApurvaBhargava/rds-project/blob/master/RDS_Final_Report.pdf)
 
-See: [Project Presentation](https://github.com/ApurvaBhargava/rds-project/blob/master/Home Credit Default Risk with LightGBM.pdf)
+See: [Project Presentation](https://github.com/ApurvaBhargava/rds-project/blob/master/Home%20Credit%20Default%20Risk%20with%20LightGBM.pdf)
